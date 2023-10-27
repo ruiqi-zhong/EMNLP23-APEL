@@ -1,6 +1,6 @@
 # EMNLP23-APEL
 
-Code and data for the paper: [Labeling Programs with Non-Programmers Indirectly via Active Examples: A Case Study with Text-to-SQL](https://arxiv.org/abs/2205.12422), to appear in EMNLP 2023. Joint work with Charlie Snell, Dan Klein, and Jason Eisner.
+Code and data for the paper: [Non-Programmers Can Label Programs Indirectly via Active Examples: A Case Study with Text-to-SQL](https://arxiv.org/abs/2205.12422), to appear in EMNLP 2023. Joint work with Charlie Snell, Dan Klein, and Jason Eisner.
 
 To install: run ```pip3 install -r requirements.txt```
 
@@ -12,7 +12,7 @@ Citation:
 
 ```
 @InProceedings{Zhong-Snell-Klein-Eisner:2023:APEL,
-  title     = {Labeling Programs with Non-Programmers Indirectly via Active Examples: A Case Study with Text-to-SQL},
+  title     = {Non-Programmers Can Label Programs Indirectly via Active Examples: A Case Study with Text-to-SQL},
   author    = {Ruiqi Zhong and Charlie Snell and Dan Klein and Jason Eisner},
   booktitle = {Proceedings of EMNLP},
   address   = {},
